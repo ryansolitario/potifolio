@@ -7,8 +7,8 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(45deg, #050505, #6a11cb); /* Gradiente de fundo */
-    color: #b20edb;
+    background: linear-gradient(45deg, #020202, #6a11cb); /* Gradiente de fundo */
+    color: #fff;
     line-height: 1.6;
     padding: 0 20px;
 }
@@ -31,7 +31,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #ffffffe7;
+    color: #fff;
     text-decoration: none;
     font-weight: bold;
     font-size: 18px;
@@ -55,7 +55,7 @@ nav ul li a:hover {
 #sobre h1 {
     font-size: 3rem;
     margin-bottom: 20px;
-    color: #ffcc0000;
+    color: #ffcc00;
 }
 
 #sobre p {
