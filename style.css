@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(45deg, #6a11cb, #000000); /* Gradiente de fundo */
+    background: linear-gradient(45deg, #6a11cb, #fdfdfd); /* Gradiente de fundo */
     color: #fff;
     line-height: 1.6;
     padding: 0 20px;
